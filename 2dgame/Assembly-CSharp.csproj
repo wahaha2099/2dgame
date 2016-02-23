@@ -56,7 +56,9 @@
      <Compile Include="Assets\2dgame\Scripts\FollowPlayer.cs" />
      <Compile Include="Assets\2dgame\Scripts\Gun.cs" />
      <Compile Include="Assets\2dgame\Scripts\HealthPickup.cs" />
+     <Compile Include="Assets\2dgame\Scripts\KillTriggerFollow.cs" />
      <Compile Include="Assets\2dgame\Scripts\LayBombs.cs" />
+     <Compile Include="Assets\2dgame\Scripts\MapCreactor.cs" />
      <Compile Include="Assets\2dgame\Scripts\Pauser.cs" />
      <Compile Include="Assets\2dgame\Scripts\PickupSpawner.cs" />
      <Compile Include="Assets\2dgame\Scripts\PlayerControl.cs" />
